@@ -1,0 +1,766 @@
+{
+  "version": 20230807,
+  "serial": 0,
+  "cities": [
+    {
+      "id": 362018,
+      "nameJP": "徳島県 徳島市",
+      "nameEN": "Tokushima-ken Tokushima-shi",
+      "population": 249040,
+      "area": 191.52,
+      "description": "吉野川から生まれた三角州の平地が多い県庁所在地。市の真ん中を横切るように眉山という山がそりたつ。お盆には阿波おどり、春秋にはマチアソビやってる。"
+    },
+    {
+      "id": 362026,
+      "nameJP": "徳島県 鳴門市",
+      "nameEN": "Tokushima-ken Naruto-shi",
+      "population": 54746,
+      "area": 135.66,
+      "description": "四国の玄関口。近畿方面から四国に訪れる場合、始めに通るよ！鳴門金時や鳴門鯛、鳴門わかめ、れんこんなど美味しいものがいっぱい！渦潮も見れます。"
+    },
+    {
+      "id": 362034,
+      "nameJP": "徳島県 小松島市",
+      "nameEN": "Tokushima-ken Komatsushiima-shi",
+      "population": 35894,
+      "area": 45.37,
+      "description": "徳島市のいっこ南。ここから県南と言うか、そう出ないかは住んでる人によって変わる。特産品はしらす、鱧、フィッシュカツなどの海産が豊富。"
+    },
+    {
+      "id": 362042,
+      "nameJP": "徳島県 阿南市",
+      "nameEN": "Tokushima-ken Anan-shi",
+      "population": 69954,
+      "area": 279.25,
+      "description": "四国のいっちゃん東にある、蒲生田岬のある市。市街地はショッピングモールが栄えているが、少し西に行くと大自然が広がるハイブリッドな街。"
+    },
+    {
+      "id": 362051,
+      "nameJP": "徳島県 吉野川市",
+      "nameEN": "Tokushima-ken Yoshinogawa-shi",
+      "population": 38872,
+      "area": 144.14,
+      "description": "阿波市からみて吉野川を挟んだ南側。梅酒や蛍が有名な美郷、四国八十八箇所の難所「遍路転がし」の出発点「藤井寺」などがある。"
+    },
+    {
+      "id": 362069,
+      "nameJP": "徳島県 阿波市",
+      "nameEN": "Tokushima-ken Awa-shi",
+      "population": 35315,
+      "area": 191.11,
+      "description": "吉野川市からみて、吉野川を挟んだ北側。イチゴの産地として有名で、春にはあちこちで路上販売やいちご狩りが始まる。"
+    },
+    {
+      "id": 362077,
+      "nameJP": "徳島県 美馬市",
+      "nameEN": "Tokushima-ken Mima-shi",
+      "population": 27354,
+      "area": 367.14,
+      "description": "「うだつが上がらない」の語源となった「うだつ」の残った「うだつの町並み」のある市。めっちゃ辛いけど甘みも強い謎の唐辛子、みまからがうまい。"
+    },
+    {
+      "id": 362085,
+      "nameJP": "徳島県 三好市",
+      "nameEN": "Tokushima-ken Miyoshi-shi",
+      "population": 23530,
+      "area": 721.42,
+      "description": "徳島の1番西側。吉野川の作る渓谷美「大歩危」「小歩危」や、シラクチカズラという植物で作られた「祖谷のかずら橋」などが有名。"
+    },
+    {
+      "id": 363014,
+      "nameJP": "徳島県 勝浦郡 勝浦町",
+      "nameEN": "Tokushima-ken Katsuura-gun Katsuura-cho",
+      "population": 4825,
+      "area": 69.83,
+      "description": "勝浦川流域にある山中の街。みかんが特産品で、冬場の産直市などでは売り場に山盛りのみかんが現れる。2月中旬からは超巨大ひな壇を飾るビッグひな祭りが開催される。"
+    },
+    {
+      "id": 363022,
+      "nameJP": "徳島県 勝浦郡 上勝町",
+      "nameEN": "Tokushima-ken Katsuura-gun Kamikatsu-cho",
+      "population": 1427,
+      "area": 109.63,
+      "description": "上勝町の紹介文"
+    },
+    {
+      "id": 363219,
+      "nameJP": "徳島県 名東郡 佐那河内村",
+      "nameEN": "Tokushima-ken Myodo-gun Sanagochi-mura",
+      "population": 2170,
+      "area": 42.28,
+      "description": "佐那河内村の紹介文"
+    },
+    {
+      "id": 363413,
+      "nameJP": "徳島県 名西郡 石井町",
+      "nameEN": "Tokushima-ken Myozai-gun Ishii-cho",
+      "population": 25097,
+      "area": 28.85,
+      "description": "石井町の紹介文"
+    },
+    {
+      "id": 363421,
+      "nameJP": "徳島県 名西郡 神山町",
+      "nameEN": "Tokushima-ken Myozai-gun Kamiyama-cho",
+      "population": 4846,
+      "area": 173.30,
+      "description": "神山町の紹介文"
+    },
+    {
+      "id": 363685,
+      "nameJP": "徳島県 那賀郡 那賀町",
+      "nameEN": "Tokushima-ken Naka-gun Naka-cho",
+      "population": 7490,
+      "area": 694.98,
+      "description": "那賀町の紹介文"
+    },
+    {
+      "id": 363839,
+      "nameJP": "徳島県 海部郡 牟岐町",
+      "nameEN": "Tokushima-ken Kaihu-gun Mugi-cho",
+      "population": 3693,
+      "area": 56.62,
+      "description": "牟岐町の紹介文"
+    },
+    {
+      "id": 363871,
+      "nameJP": "徳島県 海部郡 美波町",
+      "nameEN": "Tokushima-ken Kaihu-gun Minami-cho",
+      "population": 6071,
+      "area": 140.74,
+      "description": "美波町の紹介文"
+    },
+    {
+      "id": 363880,
+      "nameJP": "徳島県 海部郡 海陽町",
+      "nameEN": "Tokushima-ken Kaihu-gun Kaiyo-cho",
+      "population": 8645,
+      "area": 327.67,
+      "description": "海陽町の紹介文"
+    },
+    {
+      "id": 364011,
+      "nameJP": "徳島県 板野郡 松茂町",
+      "nameEN": "Tokushima-ken Itano-gun Matsushige-cho",
+      "population": 14723,
+      "area": 14.34,
+      "description": "松茂町の紹介文"
+    },
+    {
+      "id": 364029,
+      "nameJP": "徳島県 板野郡 北島町",
+      "nameEN": "Tokushima-ken Itano-gun Kitajima-cho",
+      "population": 23574,
+      "area": 8.74,
+      "description": "北島町の紹介文"
+    },
+    {
+      "id": 364037,
+      "nameJP": "徳島県 板野郡 藍住町",
+      "nameEN": "Tokushima-ken Itano-gun Aizumi-cho",
+      "population": 35579,
+      "area": 16.27,
+      "description": "北島町の紹介文"
+    },
+    {
+      "id": 364045,
+      "nameJP": "徳島県 板野郡 板野町",
+      "nameEN": "Tokushima-ken Itano-gun Itano-cho",
+      "population": 13039,
+      "area": 36.22,
+      "description": "板野町の紹介文"
+    },
+    {
+      "id": 364053,
+      "nameJP": "徳島県 板野郡 上板町",
+      "nameEN": "Tokushima-ken Itano-gun Kamiita-cho",
+      "population": 11474,
+      "area": 34.58,
+      "description": "上板町の紹介文"
+    },
+    {
+      "id": 364681,
+      "nameJP": "徳島県 美馬郡 つるぎ町",
+      "nameEN": "Tokushima-ken Mima-gun Tsurugi-cho",
+      "population": 7893,
+      "area": 194.84,
+      "description": "つるぎ町の紹介文"
+    },
+    {
+      "id": 364894,
+      "nameJP": "徳島県 三好郡 東みよし町",
+      "nameEN": "Tokushima-ken Miyoshi-gun Higashimiyoshi-cho",
+      "population": 13628,
+      "area": 122.48,
+      "description": "東みよし町の紹介文"
+    },
+    {
+      "id": 372013,
+      "nameJP": "香川県 高松市",
+      "nameEN": "Kagawa-ken Takamatsu-shi",
+      "population": 422424,
+      "area": 375.54,
+      "description": "高松市の紹介文"
+    },
+    {
+      "id": 372021,
+      "nameJP": "香川県 丸亀市",
+      "nameEN": "Kagawa-ken Marugame-shi",
+      "population": 111575,
+      "area": 111.83,
+      "description": "丸亀市の紹介文"
+    },
+    {
+      "id": 372030,
+      "nameJP": "香川県 坂出市",
+      "nameEN": "Kagawa-ken Sakaide-shi",
+      "population": 50931,
+      "area": 92.49,
+      "description": "坂出市の紹介文"
+    },
+    {
+      "id": 372048,
+      "nameJP": "香川県 善通寺市",
+      "nameEN": "Kagawa-ken Zentsuji-shi",
+      "population": 30682,
+      "area": 39.93,
+      "description": "弘法大師生誕の地。善通寺周辺には美味しい甘酒や堅パンを売っているお店があるので地味ながらも地元民、観光客ともに愛されている。"
+    },
+    {
+      "id": 372056,
+      "nameJP": "香川県 観音寺市",
+      "nameEN": "Kagawa-ken Kan-onji-shi",
+      "population": 57738,
+      "area": 117.83,
+      "description": "観音寺市の紹介文"
+    },
+    {
+      "id": 372064,
+      "nameJP": "香川県 さぬき市",
+      "nameEN": "Kagawa-ken Sanuki-shi",
+      "population": 45822,
+      "area": 158.63,
+      "description": "さぬき市の紹介文"
+    },
+    {
+      "id": 372072,
+      "nameJP": "香川県 東かがわ市",
+      "nameEN": "Kagawa-ken Higashikagawa-shi",
+      "population": 28498,
+      "area": 152.86,
+      "description": "東かがわ市の紹介文"
+    },
+    {
+      "id": 372081,
+      "nameJP": "香川県 三豊市",
+      "nameEN": "Kagawa-ken Mitoyo-shi",
+      "population": 62258,
+      "area": 222.70,
+      "description": "三豊市の紹介文"
+    },
+    {
+      "id": 373222,
+      "nameJP": "香川県 小豆郡 土庄町",
+      "nameEN": "Kagawa-ken Shozu-gun Tonosho-cho",
+      "population": 13000,
+      "area": 74.34,
+      "description": "「からかい上手の高木さん」の聖地。エンジェルロードなど、外国人観光客にも人気。ごま油の香りが漂う、海と山自然に囲まれた場所です。"
+    },
+    {
+      "id": 373249,
+      "nameJP": "香川県 小豆郡 小豆島町",
+      "nameEN": "Kagawa-ken Shozu-gun Shoudoshima-cho",
+      "population": 13616,
+      "area": 95.59,
+      "description": "小豆島町の紹介文"
+    },
+    {
+      "id": 373419,
+      "nameJP": "香川県 木田郡 三木町",
+      "nameEN": "Kagawa-ken Kita-gun Miki-cho",
+      "population": 27310,
+      "area": 75.78,
+      "description": "三木町の紹介文"
+    },
+    {
+      "id": 373648,
+      "nameJP": "香川県 香川郡 直島町",
+      "nameEN": "Kagawa-ken Kagawa-gun Naoshima-cho",
+      "population": 2949,
+      "area": 14.21,
+      "description": "直島町の紹介文"
+    },
+    {
+      "id": 373869,
+      "nameJP": "香川県 綾歌郡 宇多津町",
+      "nameEN": "Kagawa-ken Ayauta-gun Utazu-cho",
+      "population": 18446,
+      "area": 8.10,
+      "description": "宇多津町の紹介文"
+    },
+    {
+      "id": 373877,
+      "nameJP": "香川県 綾歌郡 綾川町",
+      "nameEN": "Kagawa-ken Ayauta-gun Ayagawa-cho",
+      "population": 23368,
+      "area": 109.75,
+      "description": "綾川町の紹介文"
+    },
+    {
+      "id": 374032,
+      "nameJP": "香川県 仲多度郡 琴平町",
+      "nameEN": "Kagawa-ken Nakatado-gun Kotohira-cho",
+      "population": 8434,
+      "area": 8.47,
+      "description": "琴平町の紹介文"
+    },
+    {
+      "id": 374041,
+      "nameJP": "香川県 仲多度郡 多度津町",
+      "nameEN": "Kagawa-ken Nakatado-gun Tadotsu-cho",
+      "population": 22126,
+      "area": 24.39,
+      "description": "多度津町の紹介文"
+    },
+    {
+      "id": 374067,
+      "nameJP": "香川県 仲多度郡 まんのう町",
+      "nameEN": "Kagawa-ken Nakatado-gun Manno-cho",
+      "population": 17610,
+      "area": 194.45,
+      "description": "まんのう町の紹 介文"
+    },
+    {
+      "id": 382019,
+      "nameJP": "愛媛県 松山市",
+      "nameEN": "Ehime-ken Matsuyama-shi",
+      "population": 503865,
+      "area": 429.35,
+      "description": "松山市の紹介文"
+    },
+    {
+      "id": 382027,
+      "nameJP": "愛媛県 今治市",
+      "nameEN": "Ehime-ken Imabari-shi",
+      "population": 151608,
+      "area": 419.21,
+      "description": "今治市の紹介文"
+    },
+    {
+      "id": 382035,
+      "nameJP": "愛媛県 宇和島市",
+      "nameEN": "Ehime-ken Uwajima-shi",
+      "population": 70019,
+      "area": 468.15,
+      "description": "宇和島市の紹介文"
+    },
+    {
+      "id": 382043,
+      "nameJP": "愛媛県 八幡浜市",
+      "nameEN": "Ehime-ken Yawatahama-shi",
+      "population": 31293,
+      "area": 132.65,
+      "description": "松山市の紹介文"
+    },
+    {
+      "id": 382051,
+      "nameJP": "愛媛県 新居浜市",
+      "nameEN": "Ehime-ken Niihama-shi",
+      "population": 115314,
+      "area": 234.47,
+      "description": "新居浜市の紹介文"
+    },
+    {
+      "id": 382060,
+      "nameJP": "愛媛県 西条市",
+      "nameEN": "Ehime-ken Saijo-shi",
+      "population": 105616,
+      "area": 510.04,
+      "description": "西条市の紹介文"
+    },
+    {
+      "id": 382078,
+      "nameJP": "愛媛県 大洲市",
+      "nameEN": "Ehime-ken Ozu-shi",
+      "population": 40580,
+      "area": 432.12,
+      "description": "大洲市の紹介文"
+    },
+    {
+      "id": 382108,
+      "nameJP": "愛媛県 伊予市",
+      "nameEN": "Ehime-ken Iyo-shi",
+      "population": 35805,
+      "area": 194.43,
+      "description": "伊予市の紹介文"
+    },
+    {
+      "id": 382132,
+      "nameJP": "愛媛県 四国中央市",
+      "nameEN": "Ehime-ken Shikokuchuo-shi",
+      "population": 83426,
+      "area": 421.24,
+      "description": "四国中央市の紹介文"
+    },
+    {
+      "id": 382141,
+      "nameJP": "愛媛県 西予市",
+      "nameEN": "Ehime-ken Seiyo-shi",
+      "population": 35232,
+      "area": 514.34,
+      "description": "西予市の紹介文"
+    },
+    {
+      "id": 382159,
+      "nameJP": "愛媛県 東温市",
+      "nameEN": "Ehime-ken Toon-cho",
+      "population": 33250,
+      "area": 211.30,
+      "description": "東温市の紹介文"
+    },
+    {
+      "id": 383562,
+      "nameJP": "愛媛県 越智郡 上島町",
+      "nameEN": "Ehime-ken Ochi-gun Kamijima-cho",
+      "population": 6283,
+      "area": 30.38,
+      "description": "上島町の紹介文"
+    },
+    {
+      "id": 383864,
+      "nameJP": "愛媛県 上浮穴郡 久万高原町",
+      "nameEN": "Ehime-ken Kamiukena-gun Kumakogen-cho",
+      "population": 7420,
+      "area": 583.69,
+      "description": "久万高原町の紹介文"
+    },
+    {
+      "id": 384011,
+      "nameJP": "愛媛県 伊予郡 松前町",
+      "nameEN": "Ehime-ken Masaki-cho",
+      "population": 30364,
+      "area": 20.41,
+      "description": "松前町の紹介文"
+    },
+    {
+      "id": 384020,
+      "nameJP": "愛媛県 伊予郡 砥部町",
+      "nameEN": "Ehime-ken Iyo-gun Toon-cho",
+      "population": 20510,
+      "area": 101.59,
+      "description": "砥部町の紹介文"
+    },
+    {
+      "id": 384224,
+      "nameJP": "愛媛県 喜多郡 内子町",
+      "nameEN": "Ehime-ken Kita-gun Uchiko-cho",
+      "population": 15406,
+      "area": 299.43,
+      "description": "内子町の紹介文"
+    },
+    {
+      "id": 384429,
+      "nameJP": "愛媛県 西宇和郡 伊方町",
+      "nameEN": "Ehime-ken Nishiuwa-gun Ikata-cho",
+      "population": 8395,
+      "area": 93.83,
+      "description": "伊方町の紹介文"
+    },
+    {
+      "id": 384844,
+      "nameJP": "愛媛県 北宇和郡 松野町",
+      "nameEN": "Ehime-ken Kitauwa-gun Matsuno-cho",
+      "population": 3661,
+      "area": 98.45,
+      "description": "松野町の紹介文"
+    },
+    {
+      "id": 384887,
+      "nameJP": "愛媛県 北宇和郡 鬼北町",
+      "nameEN": "Ehime-ken Kitauwa-gun Kihoku-cho",
+      "population": 9563,
+      "area": 241.88,
+      "description": "鬼北町の紹介文"
+    },
+    {
+      "id": 385069,
+      "nameJP": "愛媛県 南宇和郡 愛南町",
+      "nameEN": "Ehime-ken Minamiuwa-gun Ainan-cho",
+      "population": 19575,
+      "area": 238.99,
+      "description": "愛南町の紹介文"
+    },
+    {
+      "id": 392014,
+      "nameJP": "高知県 高知市",
+      "nameEN": "Kouchi-ken Kochi-shi",
+      "population": 319724,
+      "area": 309.00,
+      "description": "高知市の紹介文"
+    },
+    {
+      "id": 392022,
+      "nameJP": "高知県 室戸市",
+      "nameEN": "Kouchi-ken Muroto-shi",
+      "population": 12015,
+      "area": 248.22,
+      "description": "室戸市の紹介文"
+    },
+    {
+      "id": 392031,
+      "nameJP": "高知県 安芸市",
+      "nameEN": "Kouchi-ken Aki-shi",
+      "population": 16235,
+      "area": 317.16,
+      "description": "安芸市の紹介文"
+    },
+    {
+      "id": 392049,
+      "nameJP": "高知県 南国市",
+      "nameEN": "Kouchi-ken Nankoku-shi",
+      "population": 46328,
+      "area": 125.30,
+      "description": "南国市の紹介文"
+    },
+    {
+      "id": 392057,
+      "nameJP": "高知県 土佐市",
+      "nameEN": "Kouchi-ken Tosa-shi",
+      "population": 26334,
+      "area": 91.50,
+      "description": "土佐市の紹介文"
+    },
+    {
+      "id": 392065,
+      "nameJP": "高知県 須崎市",
+      "nameEN": "Kouchi-ken Susaki-shi",
+      "population": 20268,
+      "area": 135.20,
+      "description": "須崎市の紹介文"
+    },
+    {
+      "id": 392081,
+      "nameJP": "高知県 宿毛市",
+      "nameEN": "Kouchi-ken Sukumo-shi",
+      "population": 19178,
+      "area": 286.17,
+      "description": "宿毛市の紹介文"
+    },
+    {
+      "id": 392090,
+      "nameJP": "高知県 土佐清水市",
+      "nameEN": "Kouchi-ken Tosashimizu-shi",
+      "population": 12271,
+      "area": 265.42,
+      "description": "土佐清水市の紹介文"
+    },
+    {
+      "id": 392103,
+      "nameJP": "高知県 四万十市",
+      "nameEN": "Kouchi-ken Shimanto-shi",
+      "population": 32460,
+      "area": 632.32,
+      "description": "四万十市の紹介文"
+    },
+    {
+      "id": 392111,
+      "nameJP": "高知県 香南市",
+      "nameEN": "Kouchi-ken Konan-shi",
+      "population": 33009,
+      "area": 126.46,
+      "description": "香南市の紹介文"
+    },
+    {
+      "id": 392120,
+      "nameJP": "高知県 香美市",
+      "nameEN": "Kouchi-ken Kami-shi",
+      "population": 25381,
+      "area": 537.86,
+      "description": "香美市の紹介文"
+    },
+    {
+      "id": 393011,
+      "nameJP": "高知県 安芸郡 東洋町",
+      "nameEN": "Kouchi-ken Aki-gun Toyo-cho",
+      "population": 2183,
+      "area": 74.02,
+      "description": "東洋町の紹介文"
+    },
+    {
+      "id": 393029,
+      "nameJP": "高知県 安芸郡 奈半利町",
+      "nameEN": "Kouchi-ken Aki-gun Nahari-cho",
+      "population": 3003,
+      "area": 28.37,
+      "description": "奈半利町の紹介文"
+    },
+    {
+      "id": 393037,
+      "nameJP": "高知県 安芸郡 田野町",
+      "nameEN": "Kouchi-ken Aki-gun Tano-cho",
+      "population": 2524,
+      "area": 6.53,
+      "description": "田野町の紹介文"
+    },
+    {
+      "id": 393045,
+      "nameJP": "高知県 安芸郡 安田町",
+      "nameEN": "Kouchi-ken Aki-gun Yasuda-cho",
+      "population": 2413,
+      "area": 52.36,
+      "description": "安田町の紹介文"
+    },
+    {
+      "id": 393053,
+      "nameJP": "高知県 安芸郡 北川村",
+      "nameEN": "Kouchi-ken Aki-gun Kitagawa-mura",
+      "population": 1213,
+      "area": 196.73,
+      "description": "北川村の紹介文"
+    },
+    {
+      "id": 393061,
+      "nameJP": "高知県 安芸郡 馬路村",
+      "nameEN": "Kouchi-ken Aki-gun Umaji-mura",
+      "population": 827,
+      "area": 165.48,
+      "description": "馬路村の紹介文"
+    },
+    {
+      "id": 393070,
+      "nameJP": "高知県 安芸郡 芸西村",
+      "nameEN": "Kouchi-ken Aki-gun Geisei-mura",
+      "population": 3621,
+      "area": 39.60,
+      "description": "芸西村の紹介文"
+    },
+    {
+      "id": 393410,
+      "nameJP": "高知県 長岡郡 本山町",
+      "nameEN": "Kouchi-ken Nagaoka-gun Motoyama-cho",
+      "population": 3299,
+      "area": 134.22,
+      "description": "本山町の紹介文"
+    },
+    {
+      "id": 393444,
+      "nameJP": "高知県 長岡郡 大豊町",
+      "nameEN": "Kouchi-ken Nagaoka-gun Otoyo-cho",
+      "population": 3223,
+      "area": 315.06,
+      "description": "大豊町の紹介文"
+    },
+    {
+      "id": 393631,
+      "nameJP": "高知県 土佐郡 土佐町",
+      "nameEN": "Kouchi-ken Tosa-gun Tosa-cho",
+      "population": 3625,
+      "area": 212.13,
+      "description": "土佐町の紹介文"
+    },
+    {
+      "id": 393649,
+      "nameJP": "高知県 土佐郡 大川村",
+      "nameEN": "Kouchi-ken Tosa-gun Okawa-mura",
+      "population": 361,
+      "area": 95.27,
+      "description": "馬路村の紹介文"
+    },
+    {
+      "id": 393860,
+      "nameJP": "高知県 吾川郡 いの町",
+      "nameEN": "Kouchi-ken Agawa-gun Ino-cho",
+      "population": 21504,
+      "area": 470.97,
+      "description": "いの町の紹介文"
+    },
+    {
+      "id": 393878,
+      "nameJP": "高知県 吾川郡 仁淀川町",
+      "nameEN": "Kouchi-ken Agawa-gun Niyodogawa-cho",
+      "population": 4795,
+      "area": 333.00,
+      "description": "仁淀川町の紹介文"
+    },
+    {
+      "id": 394017,
+      "nameJP": "高知県 高岡郡 中土佐町",
+      "nameEN": "Kouchi-ken Takaoka-gun Nakatosa-cho",
+      "population": 6106,
+      "area": 193.21,
+      "description": "中土佐町の紹介文"
+    },
+    {
+      "id": 394025,
+      "nameJP": "高知県 高岡郡 佐川町",
+      "nameEN": "Kouchi-ken Takaoka-gun Sakawa-cho",
+      "population": 12238,
+      "area": 100.80,
+      "description": "佐川町の紹介文"
+    },
+    {
+      "id": 394033,
+      "nameJP": "高知県 高岡郡 越知町",
+      "nameEN": "Kouchi-ken Takaoka-gun Otoyo-cho",
+      "population": 5087,
+      "area": 111.95,
+      "description": "大豊町の紹介文"
+    },
+    {
+      "id": 394050,
+      "nameJP": "高知県 高岡郡 梼原町",
+      "nameEN": "Kouchi-ken Takaoka-gun Yusuhara-cho",
+      "population": 3236,
+      "area": 236.45,
+      "description": "梼原町の紹介文"
+    },
+    {
+      "id": 394106,
+      "nameJP": "高知県 高岡郡 日高村",
+      "nameEN": "Kouchi-ken Takaoka-gun Hidaka-mura",
+      "population": 4858,
+      "area": 44.85,
+      "description": "日高村の紹介文"
+    },
+    {
+      "id": 394114,
+      "nameJP": "高知県 高岡郡 津野町",
+      "nameEN": "Kouchi-ken Takaoka-gun Tsuno-shi",
+      "population": 5456,
+      "area": 197.85,
+      "description": "津野町の紹介文"
+    },
+    {
+      "id": 394122,
+      "nameJP": "高知県 高岡郡 四万十町",
+      "nameEN": "Kouchi-ken Takaoka-gun Shimanto-cho",
+      "population": 15761,
+      "area": 642.28,
+      "description": "四万十町の紹介文"
+    },
+    {
+      "id": 394246,
+      "nameJP": "高知県 幡多郡 大月町",
+      "nameEN": "Kouchi-ken Hata-gun Otsuki-cho",
+      "population": 4582,
+      "area": 102.73,
+      "description": "大月町の紹介文"
+    },
+    {
+      "id": 394271,
+      "nameJP": "高知県 幡多郡 三原村",
+      "nameEN": "Kouchi-ken Hata-gun Mihara-mura",
+      "population": 1435,
+      "area": 85.37,
+      "description": "三原村の紹介文"
+    },
+    {
+      "id": 394289,
+      "nameJP": "高知県 幡多郡 黒潮町",
+      "nameEN": "Kouchi-ken Hata-gun Kitagawa-mura",
+      "population": 10411,
+      "area": 188.46,
+      "description": "黒潮町の紹介文"
+    }
+  ]
+}
