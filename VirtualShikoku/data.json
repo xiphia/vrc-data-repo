@@ -1,5 +1,5 @@
 {
-  "version": "2023.08.07.20.37.32",
+  "version": "2023.08.08.01.34.31",
   "cities": [
     {
       "id": 362018,
@@ -79,7 +79,7 @@
       "nameEN": "Tokushima-ken Katsuura-gun Kamikatsu-cho",
       "population": 1427,
       "area": 109.63,
-      "description": "上勝町の紹介文"
+      "description": ""
     },
     {
       "id": 363219,
@@ -87,7 +87,7 @@
       "nameEN": "Tokushima-ken Myodo-gun Sanagochi-mura",
       "population": 2170,
       "area": 42.28,
-      "description": "佐那河内村の紹介文"
+      "description": ""
     },
     {
       "id": 363413,
@@ -95,7 +95,7 @@
       "nameEN": "Tokushima-ken Myozai-gun Ishii-cho",
       "population": 25097,
       "area": 28.85,
-      "description": "石井町の紹介文"
+      "description": ""
     },
     {
       "id": 363421,
@@ -103,7 +103,7 @@
       "nameEN": "Tokushima-ken Myozai-gun Kamiyama-cho",
       "population": 4846,
       "area": 173.3,
-      "description": "神山町の紹介文"
+      "description": ""
     },
     {
       "id": 363685,
@@ -111,7 +111,7 @@
       "nameEN": "Tokushima-ken Naka-gun Naka-cho",
       "population": 7490,
       "area": 694.98,
-      "description": "那賀町の紹介文"
+      "description": ""
     },
     {
       "id": 363839,
@@ -119,7 +119,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Mugi-cho",
       "population": 3693,
       "area": 56.62,
-      "description": "牟岐町の紹介文"
+      "description": ""
     },
     {
       "id": 363871,
@@ -127,7 +127,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Minami-cho",
       "population": 6071,
       "area": 140.74,
-      "description": "美波町の紹介文"
+      "description": ""
     },
     {
       "id": 363880,
@@ -135,7 +135,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Kaiyo-cho",
       "population": 8645,
       "area": 327.67,
-      "description": "海陽町の紹介文"
+      "description": ""
     },
     {
       "id": 364011,
@@ -143,7 +143,7 @@
       "nameEN": "Tokushima-ken Itano-gun Matsushige-cho",
       "population": 14723,
       "area": 14.34,
-      "description": "松茂町の紹介文"
+      "description": ""
     },
     {
       "id": 364029,
@@ -151,7 +151,7 @@
       "nameEN": "Tokushima-ken Itano-gun Kitajima-cho",
       "population": 23574,
       "area": 8.74,
-      "description": "北島町の紹介文"
+      "description": ""
     },
     {
       "id": 364037,
@@ -159,7 +159,7 @@
       "nameEN": "Tokushima-ken Itano-gun Aizumi-cho",
       "population": 35579,
       "area": 16.27,
-      "description": "藍住町の紹介文"
+      "description": ""
     },
     {
       "id": 364045,
@@ -167,7 +167,7 @@
       "nameEN": "Tokushima-ken Itano-gun Itano-cho",
       "population": 13039,
       "area": 36.22,
-      "description": "板野町の紹介文"
+      "description": ""
     },
     {
       "id": 364053,
@@ -175,7 +175,7 @@
       "nameEN": "Tokushima-ken Itano-gun Kamiita-cho",
       "population": 11474,
       "area": 34.58,
-      "description": "上板町の紹介文"
+      "description": ""
     },
     {
       "id": 364681,
@@ -183,7 +183,7 @@
       "nameEN": "Tokushima-ken Mima-gun Tsurugi-cho",
       "population": 7893,
       "area": 194.84,
-      "description": "つるぎ町の紹介文"
+      "description": ""
     },
     {
       "id": 364894,
@@ -191,7 +191,7 @@
       "nameEN": "Tokushima-ken Miyoshi-gun Higashimiyoshi-cho",
       "population": 13628,
       "area": 122.48,
-      "description": "東みよし町の紹介文"
+      "description": ""
     },
     {
       "id": 372013,
@@ -199,7 +199,7 @@
       "nameEN": "Kagawa-ken Takamatsu-shi",
       "population": 422424,
       "area": 375.54,
-      "description": "高松市の紹介文"
+      "description": "高松市の紹介文 日本三大水城の玉藻城 特別名勝の栗林公園 そして商業都市が調和した街 島々にもアクセスが良く、観光の始まりの地に是非！"
     },
     {
       "id": 372021,
@@ -207,7 +207,7 @@
       "nameEN": "Kagawa-ken Marugame-shi",
       "population": 111575,
       "area": 111.83,
-      "description": "丸亀市の紹介文"
+      "description": "丸亀市の紹介文 丸亀城は高い石垣とその美しさから国内でも評価が高く、城の頂上からは瀬戸内海を一望できるのでオススメ！"
     },
     {
       "id": 372030,
@@ -215,7 +215,7 @@
       "nameEN": "Kagawa-ken Sakaide-shi",
       "population": 50931,
       "area": 92.49,
-      "description": "坂出市の紹介文"
+      "description": "坂出市の紹介文 四国鉄道の玄関口 瀬戸大橋は四国の産業を支える鉄道自動車道路橋として本州と繋がっている。"
     },
     {
       "id": 372048,
@@ -231,7 +231,7 @@
       "nameEN": "Kagawa-ken Kan-onji-shi",
       "population": 57738,
       "area": 117.83,
-      "description": "観音寺市の紹介文"
+      "description": ""
     },
     {
       "id": 372064,
@@ -239,7 +239,7 @@
       "nameEN": "Kagawa-ken Sanuki-shi",
       "population": 45822,
       "area": 158.63,
-      "description": "さぬき市の紹介文"
+      "description": "さぬき市の紹介文 美しい海を望む野外音楽ステージ テアトロンとその周辺の海辺は瀬戸の海を一望できる絶景!! "
     },
     {
       "id": 372072,
@@ -247,7 +247,7 @@
       "nameEN": "Kagawa-ken Higashikagawa-shi",
       "population": 28498,
       "area": 152.86,
-      "description": "東かがわ市の紹介文"
+      "description": "東かがわ市の紹介文 香川の東の端の都市 ホワイトタイガーのいるしろとり動物園や日本唯一？の人形劇博物館 とらまる公園 意外な面白いが隠れている町！"
     },
     {
       "id": 372081,
@@ -255,7 +255,7 @@
       "nameEN": "Kagawa-ken Mitoyo-shi",
       "population": 62258,
       "area": 222.7,
-      "description": "三豊市の紹介文"
+      "description": "三豊市の紹介文 香川の西の端 NYタイムスが編集した世界の行くべき旅行先という記事に写真が掲載された紫雲出山や遠浅の海辺が美しい父母ヶ浜など、瀬戸内海と夕日が織り成す絶景スポットが多い町"
     },
     {
       "id": 373222,
@@ -271,7 +271,7 @@
       "nameEN": "Kagawa-ken Shozu-gun Shoudoshima-cho",
       "population": 13616,
       "area": 95.59,
-      "description": "小豆島町の紹介文"
+      "description": ""
     },
     {
       "id": 373419,
@@ -279,7 +279,7 @@
       "nameEN": "Kagawa-ken Kita-gun Miki-cho",
       "population": 27310,
       "area": 75.78,
-      "description": "三木町の紹介文"
+      "description": "三木町の紹介文 高松の東側にある暮らしやすい街 （追記お願い！）"
     },
     {
       "id": 373648,
@@ -287,7 +287,7 @@
       "nameEN": "Kagawa-ken Kagawa-gun Naoshima-cho",
       "population": 2949,
       "area": 14.21,
-      "description": "直島町の紹介文"
+      "description": ""
     },
     {
       "id": 373869,
@@ -295,7 +295,7 @@
       "nameEN": "Kagawa-ken Ayauta-gun Utazu-cho",
       "population": 18446,
       "area": 8.1,
-      "description": "宇多津町の紹介文"
+      "description": "宇多津町の紹介文 香川の新都として整備が進み、四国水族館では瀬戸内海に住む生物を中心に趣向を凝らした展示に魅了されること間違いなし！"
     },
     {
       "id": 373877,
@@ -303,7 +303,7 @@
       "nameEN": "Kagawa-ken Ayauta-gun Ayagawa-cho",
       "population": 23368,
       "area": 109.75,
-      "description": "綾川町の紹介文"
+      "description": "綾川町の紹介文 讃岐うどん発祥の地とされており、山越うどんなどの名店も多い町"
     },
     {
       "id": 374032,
@@ -311,7 +311,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Kotohira-cho",
       "population": 8434,
       "area": 8.47,
-      "description": "琴平町の紹介文"
+      "description": "琴平町の紹介文 古くから金毘羅さんとして愛される金刀比羅宮に見守られた町 海の神様として人々を見守ってきた歴史を是非肌で感じて欲しい！"
     },
     {
       "id": 374041,
@@ -319,7 +319,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Tadotsu-cho",
       "population": 22126,
       "area": 24.39,
-      "description": "多度津町の紹介文"
+      "description": ""
     },
     {
       "id": 374067,
@@ -327,7 +327,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Manno-cho",
       "population": 17610,
       "area": 194.45,
-      "description": "まんのう町の紹 介文"
+      "description": ""
     },
     {
       "id": 382019,
@@ -343,7 +343,7 @@
       "nameEN": "Ehime-ken Imabari-shi",
       "population": 151608,
       "area": 419.21,
-      "description": "今治市の紹介文"
+      "description": "愛媛県最北端と100の島で構成され、しまなみ海道を通じて広島から四国へ行き来できる玄関口、古くからタオル産業と造船産業が盛んで今治タオルブランドがあったり日本最大の海事都市である。せんざんきおいしい"
     },
     {
       "id": 382035,
@@ -351,7 +351,7 @@
       "nameEN": "Ehime-ken Uwajima-shi",
       "population": 70019,
       "area": 468.15,
-      "description": "宇和島市の紹介文"
+      "description": ""
     },
     {
       "id": 382043,
@@ -359,7 +359,7 @@
       "nameEN": "Ehime-ken Yawatahama-shi",
       "population": 31293,
       "area": 132.65,
-      "description": "八幡浜市の紹介文"
+      "description": ""
     },
     {
       "id": 382051,
@@ -367,7 +367,7 @@
       "nameEN": "Ehime-ken Niihama-shi",
       "population": 115314,
       "area": 234.47,
-      "description": "新居浜市の紹介文"
+      "description": ""
     },
     {
       "id": 382060,
@@ -375,7 +375,7 @@
       "nameEN": "Ehime-ken Saijo-shi",
       "population": 105616,
       "area": 510.04,
-      "description": "西条市の紹介文"
+      "description": ""
     },
     {
       "id": 382078,
@@ -383,7 +383,7 @@
       "nameEN": "Ehime-ken Ozu-shi",
       "population": 40580,
       "area": 432.12,
-      "description": "大洲市の紹介文"
+      "description": ""
     },
     {
       "id": 382108,
@@ -391,7 +391,7 @@
       "nameEN": "Ehime-ken Iyo-shi",
       "population": 35805,
       "area": 194.43,
-      "description": "伊予市の紹介文"
+      "description": ""
     },
     {
       "id": 382132,
@@ -399,7 +399,7 @@
       "nameEN": "Ehime-ken Shikokuchuo-shi",
       "population": 83426,
       "area": 421.24,
-      "description": "四国中央市の紹介文"
+      "description": ""
     },
     {
       "id": 382141,
@@ -407,7 +407,7 @@
       "nameEN": "Ehime-ken Seiyo-shi",
       "population": 35232,
       "area": 514.34,
-      "description": "西予市の紹介文"
+      "description": ""
     },
     {
       "id": 382159,
@@ -415,7 +415,7 @@
       "nameEN": "Ehime-ken Toon-shi",
       "population": 33250,
       "area": 211.3,
-      "description": "東温市の紹介文"
+      "description": ""
     },
     {
       "id": 383562,
@@ -423,7 +423,7 @@
       "nameEN": "Ehime-ken Ochi-gun Kamijima-cho",
       "population": 6283,
       "area": 30.38,
-      "description": "上島町の紹介文"
+      "description": ""
     },
     {
       "id": 383864,
@@ -431,7 +431,7 @@
       "nameEN": "Ehime-ken Kamiukena-gun Kumakogen-cho",
       "population": 7420,
       "area": 583.69,
-      "description": "久万高原町の紹介文"
+      "description": ""
     },
     {
       "id": 384011,
@@ -439,7 +439,7 @@
       "nameEN": "Ehime-ken Masaki-cho",
       "population": 30364,
       "area": 20.41,
-      "description": "松前町の紹介文"
+      "description": ""
     },
     {
       "id": 384020,
@@ -447,7 +447,7 @@
       "nameEN": "Ehime-ken Iyo-gun Tobe-cho",
       "population": 20510,
       "area": 101.59,
-      "description": "砥部町の紹介文"
+      "description": ""
     },
     {
       "id": 384224,
@@ -455,7 +455,7 @@
       "nameEN": "Ehime-ken Kita-gun Uchiko-cho",
       "population": 15406,
       "area": 299.43,
-      "description": "内子町の紹介文"
+      "description": ""
     },
     {
       "id": 384429,
@@ -463,7 +463,7 @@
       "nameEN": "Ehime-ken Nishiuwa-gun Ikata-cho",
       "population": 8395,
       "area": 93.83,
-      "description": "伊方町の紹介文"
+      "description": ""
     },
     {
       "id": 384844,
@@ -471,7 +471,7 @@
       "nameEN": "Ehime-ken Kitauwa-gun Matsuno-cho",
       "population": 3661,
       "area": 98.45,
-      "description": "松野町の紹介文"
+      "description": ""
     },
     {
       "id": 384887,
@@ -479,7 +479,7 @@
       "nameEN": "Ehime-ken Kitauwa-gun Kihoku-cho",
       "population": 9563,
       "area": 241.88,
-      "description": "鬼北町の紹介文"
+      "description": ""
     },
     {
       "id": 385069,
@@ -487,7 +487,7 @@
       "nameEN": "Ehime-ken Minamiuwa-gun Ainan-cho",
       "population": 19575,
       "area": 238.99,
-      "description": "愛南町の紹介文"
+      "description": ""
     },
     {
       "id": 392014,
@@ -503,7 +503,7 @@
       "nameEN": "Kouchi-ken Muroto-shi",
       "population": 12015,
       "area": 248.22,
-      "description": "室戸市の紹介文"
+      "description": ""
     },
     {
       "id": 392031,
@@ -511,7 +511,7 @@
       "nameEN": "Kouchi-ken Aki-shi",
       "population": 16235,
       "area": 317.16,
-      "description": "安芸市の紹介文"
+      "description": ""
     },
     {
       "id": 392049,
@@ -519,7 +519,7 @@
       "nameEN": "Kouchi-ken Nankoku-shi",
       "population": 46328,
       "area": 125.3,
-      "description": "南国市の紹介文"
+      "description": ""
     },
     {
       "id": 392057,
@@ -527,7 +527,7 @@
       "nameEN": "Kouchi-ken Tosa-shi",
       "population": 26334,
       "area": 91.5,
-      "description": "土佐市の紹介文"
+      "description": ""
     },
     {
       "id": 392065,
@@ -535,7 +535,7 @@
       "nameEN": "Kouchi-ken Susaki-shi",
       "population": 20268,
       "area": 135.2,
-      "description": "須崎市の紹介文"
+      "description": ""
     },
     {
       "id": 392081,
@@ -543,7 +543,7 @@
       "nameEN": "Kouchi-ken Sukumo-shi",
       "population": 19178,
       "area": 286.17,
-      "description": "宿毛市の紹介文"
+      "description": ""
     },
     {
       "id": 392090,
@@ -551,7 +551,7 @@
       "nameEN": "Kouchi-ken Tosashimizu-shi",
       "population": 12271,
       "area": 265.42,
-      "description": "土佐清水市の紹介文"
+      "description": ""
     },
     {
       "id": 392103,
@@ -559,7 +559,7 @@
       "nameEN": "Kouchi-ken Shimanto-shi",
       "population": 32460,
       "area": 632.32,
-      "description": "四万十市の紹介文"
+      "description": ""
     },
     {
       "id": 392111,
@@ -583,7 +583,7 @@
       "nameEN": "Kouchi-ken Aki-gun Toyo-cho",
       "population": 2183,
       "area": 74.02,
-      "description": "東洋町の紹介文"
+      "description": ""
     },
     {
       "id": 393029,
@@ -591,7 +591,7 @@
       "nameEN": "Kouchi-ken Aki-gun Nahari-cho",
       "population": 3003,
       "area": 28.37,
-      "description": "奈半利町の紹介文"
+      "description": ""
     },
     {
       "id": 393037,
@@ -599,7 +599,7 @@
       "nameEN": "Kouchi-ken Aki-gun Tano-cho",
       "population": 2524,
       "area": 6.53,
-      "description": "田野町の紹介文"
+      "description": ""
     },
     {
       "id": 393045,
@@ -631,7 +631,7 @@
       "nameEN": "Kouchi-ken Aki-gun Geisei-mura",
       "population": 3621,
       "area": 39.6,
-      "description": "芸西村の紹介文"
+      "description": ""
     },
     {
       "id": 393410,
@@ -639,7 +639,7 @@
       "nameEN": "Kouchi-ken Nagaoka-gun Motoyama-cho",
       "population": 3299,
       "area": 134.22,
-      "description": "本山町の紹介文"
+      "description": ""
     },
     {
       "id": 393444,
@@ -647,7 +647,7 @@
       "nameEN": "Kouchi-ken Nagaoka-gun Otoyo-cho",
       "population": 3223,
       "area": 315.06,
-      "description": "大豊町の紹介文"
+      "description": ""
     },
     {
       "id": 393631,
@@ -655,7 +655,7 @@
       "nameEN": "Kouchi-ken Tosa-gun Tosa-cho",
       "population": 3625,
       "area": 212.13,
-      "description": "土佐町の紹介文"
+      "description": ""
     },
     {
       "id": 393649,
@@ -663,7 +663,7 @@
       "nameEN": "Kouchi-ken Tosa-gun Okawa-mura",
       "population": 361,
       "area": 95.27,
-      "description": "大川村の紹介文"
+      "description": ""
     },
     {
       "id": 393860,
@@ -671,7 +671,7 @@
       "nameEN": "Kouchi-ken Agawa-gun Ino-cho",
       "population": 21504,
       "area": 470.97,
-      "description": "いの町の紹介文"
+      "description": ""
     },
     {
       "id": 393878,
@@ -679,7 +679,7 @@
       "nameEN": "Kouchi-ken Agawa-gun Niyodogawa-cho",
       "population": 4795,
       "area": 333,
-      "description": "仁淀川町の紹介文"
+      "description": ""
     },
     {
       "id": 394017,
@@ -687,7 +687,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Nakatosa-cho",
       "population": 6106,
       "area": 193.21,
-      "description": "中土佐町の紹介文"
+      "description": ""
     },
     {
       "id": 394025,
@@ -695,7 +695,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Sakawa-cho",
       "population": 12238,
       "area": 100.8,
-      "description": "佐川町の紹介文"
+      "description": ""
     },
     {
       "id": 394033,
@@ -703,7 +703,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Ochi-cho",
       "population": 5087,
       "area": 111.95,
-      "description": "越知町の紹介文"
+      "description": ""
     },
     {
       "id": 394050,
@@ -711,7 +711,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Yusuhara-cho",
       "population": 3236,
       "area": 236.45,
-      "description": "梼原町の紹介文"
+      "description": ""
     },
     {
       "id": 394106,
@@ -719,7 +719,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Hidaka-mura",
       "population": 4858,
       "area": 44.85,
-      "description": "日高村の紹介文"
+      "description": ""
     },
     {
       "id": 394114,
@@ -727,7 +727,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Tsuno-cho",
       "population": 5456,
       "area": 197.85,
-      "description": "津野町の紹介文"
+      "description": ""
     },
     {
       "id": 394122,
@@ -735,7 +735,7 @@
       "nameEN": "Kouchi-ken Takaoka-gun Shimanto-cho",
       "population": 15761,
       "area": 642.28,
-      "description": "四万十町の紹介文"
+      "description": ""
     },
     {
       "id": 394246,
@@ -743,7 +743,7 @@
       "nameEN": "Kouchi-ken Hata-gun Otsuki-cho",
       "population": 4582,
       "area": 102.73,
-      "description": "大月町の紹介文"
+      "description": ""
     },
     {
       "id": 394271,
@@ -751,7 +751,7 @@
       "nameEN": "Kouchi-ken Hata-gun Mihara-mura",
       "population": 1435,
       "area": 85.37,
-      "description": "三原村の紹介文"
+      "description": ""
     },
     {
       "id": 394289,
@@ -759,7 +759,7 @@
       "nameEN": "Kouchi-ken Hata-gun Kuroshio-cho",
       "population": 10411,
       "area": 188.46,
-      "description": "黒潮町の紹介文"
+      "description": ""
     }
   ]
 }
