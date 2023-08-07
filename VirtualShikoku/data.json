@@ -1,6 +1,5 @@
 {
-  "version": 20230807,
-  "serial": 0,
+  "version": "2023.08.07.20.37.32",
   "cities": [
     {
       "id": 362018,
@@ -103,7 +102,7 @@
       "nameJP": "徳島県 名西郡 神山町",
       "nameEN": "Tokushima-ken Myozai-gun Kamiyama-cho",
       "population": 4846,
-      "area": 173.30,
+      "area": 173.3,
       "description": "神山町の紹介文"
     },
     {
@@ -160,7 +159,7 @@
       "nameEN": "Tokushima-ken Itano-gun Aizumi-cho",
       "population": 35579,
       "area": 16.27,
-      "description": "北島町の紹介文"
+      "description": "藍住町の紹介文"
     },
     {
       "id": 364045,
@@ -255,7 +254,7 @@
       "nameJP": "香川県 三豊市",
       "nameEN": "Kagawa-ken Mitoyo-shi",
       "population": 62258,
-      "area": 222.70,
+      "area": 222.7,
       "description": "三豊市の紹介文"
     },
     {
@@ -295,7 +294,7 @@
       "nameJP": "香川県 綾歌郡 宇多津町",
       "nameEN": "Kagawa-ken Ayauta-gun Utazu-cho",
       "population": 18446,
-      "area": 8.10,
+      "area": 8.1,
       "description": "宇多津町の紹介文"
     },
     {
@@ -336,7 +335,7 @@
       "nameEN": "Ehime-ken Matsuyama-shi",
       "population": 503865,
       "area": 429.35,
-      "description": "松山市の紹介文"
+      "description": "夏目漱石の坊ちゃんの舞台になった街。昔ながらの街並みでレトロな感じがとてもGood!愛媛の中心地だから交通手段も充実！美味しいものもたーくさん！"
     },
     {
       "id": 382027,
@@ -360,7 +359,7 @@
       "nameEN": "Ehime-ken Yawatahama-shi",
       "population": 31293,
       "area": 132.65,
-      "description": "松山市の紹介文"
+      "description": "八幡浜市の紹介文"
     },
     {
       "id": 382051,
@@ -413,9 +412,9 @@
     {
       "id": 382159,
       "nameJP": "愛媛県 東温市",
-      "nameEN": "Ehime-ken Toon-cho",
+      "nameEN": "Ehime-ken Toon-shi",
       "population": 33250,
-      "area": 211.30,
+      "area": 211.3,
       "description": "東温市の紹介文"
     },
     {
@@ -445,7 +444,7 @@
     {
       "id": 384020,
       "nameJP": "愛媛県 伊予郡 砥部町",
-      "nameEN": "Ehime-ken Iyo-gun Toon-cho",
+      "nameEN": "Ehime-ken Iyo-gun Tobe-cho",
       "population": 20510,
       "area": 101.59,
       "description": "砥部町の紹介文"
@@ -495,8 +494,8 @@
       "nameJP": "高知県 高知市",
       "nameEN": "Kouchi-ken Kochi-shi",
       "population": 319724,
-      "area": 309.00,
-      "description": "高知市の紹介文"
+      "area": 309,
+      "description": "ひろめ市場（ひろめいちば）という呑み屋が集合した酒豪の集う場所がある。牧野植物園や桂浜水族館、高知競馬場と見どころ沢山。高知の中心部なので店で困ることはない。"
     },
     {
       "id": 392022,
@@ -519,7 +518,7 @@
       "nameJP": "高知県 南国市",
       "nameEN": "Kouchi-ken Nankoku-shi",
       "population": 46328,
-      "area": 125.30,
+      "area": 125.3,
       "description": "南国市の紹介文"
     },
     {
@@ -527,7 +526,7 @@
       "nameJP": "高知県 土佐市",
       "nameEN": "Kouchi-ken Tosa-shi",
       "population": 26334,
-      "area": 91.50,
+      "area": 91.5,
       "description": "土佐市の紹介文"
     },
     {
@@ -535,7 +534,7 @@
       "nameJP": "高知県 須崎市",
       "nameEN": "Kouchi-ken Susaki-shi",
       "population": 20268,
-      "area": 135.20,
+      "area": 135.2,
       "description": "須崎市の紹介文"
     },
     {
@@ -568,7 +567,7 @@
       "nameEN": "Kouchi-ken Konan-shi",
       "population": 33009,
       "area": 126.46,
-      "description": "香南市の紹介文"
+      "description": "中央より右寄りに位置する市。野市動物公園や創造広場アクトランドなど観光資源豊か。適度に開発が進んでいるためベッドタウンに最適。但しここより東にはマクドナルドが無い。"
     },
     {
       "id": 392120,
@@ -576,7 +575,7 @@
       "nameEN": "Kouchi-ken Kami-shi",
       "population": 25381,
       "area": 537.86,
-      "description": "香美市の紹介文"
+      "description": "「龍河洞」という鍾乳洞が有名。高知工科大学がある。"
     },
     {
       "id": 393011,
@@ -608,7 +607,7 @@
       "nameEN": "Kouchi-ken Aki-gun Yasuda-cho",
       "population": 2413,
       "area": 52.36,
-      "description": "安田町の紹介文"
+      "description": "南酒造場の作る「南」という日本酒が最高に美味。"
     },
     {
       "id": 393053,
@@ -616,7 +615,7 @@
       "nameEN": "Kouchi-ken Aki-gun Kitagawa-mura",
       "population": 1213,
       "area": 196.73,
-      "description": "北川村の紹介文"
+      "description": "モネの庭が有名。"
     },
     {
       "id": 393061,
@@ -624,14 +623,14 @@
       "nameEN": "Kouchi-ken Aki-gun Umaji-mura",
       "population": 827,
       "area": 165.48,
-      "description": "馬路村の紹介文"
+      "description": "ゆずの名産地。"
     },
     {
       "id": 393070,
       "nameJP": "高知県 安芸郡 芸西村",
       "nameEN": "Kouchi-ken Aki-gun Geisei-mura",
       "population": 3621,
-      "area": 39.60,
+      "area": 39.6,
       "description": "芸西村の紹介文"
     },
     {
@@ -664,7 +663,7 @@
       "nameEN": "Kouchi-ken Tosa-gun Okawa-mura",
       "population": 361,
       "area": 95.27,
-      "description": "馬路村の紹介文"
+      "description": "大川村の紹介文"
     },
     {
       "id": 393860,
@@ -679,7 +678,7 @@
       "nameJP": "高知県 吾川郡 仁淀川町",
       "nameEN": "Kouchi-ken Agawa-gun Niyodogawa-cho",
       "population": 4795,
-      "area": 333.00,
+      "area": 333,
       "description": "仁淀川町の紹介文"
     },
     {
@@ -695,16 +694,16 @@
       "nameJP": "高知県 高岡郡 佐川町",
       "nameEN": "Kouchi-ken Takaoka-gun Sakawa-cho",
       "population": 12238,
-      "area": 100.80,
+      "area": 100.8,
       "description": "佐川町の紹介文"
     },
     {
       "id": 394033,
       "nameJP": "高知県 高岡郡 越知町",
-      "nameEN": "Kouchi-ken Takaoka-gun Otoyo-cho",
+      "nameEN": "Kouchi-ken Takaoka-gun Ochi-cho",
       "population": 5087,
       "area": 111.95,
-      "description": "大豊町の紹介文"
+      "description": "越知町の紹介文"
     },
     {
       "id": 394050,
@@ -725,7 +724,7 @@
     {
       "id": 394114,
       "nameJP": "高知県 高岡郡 津野町",
-      "nameEN": "Kouchi-ken Takaoka-gun Tsuno-shi",
+      "nameEN": "Kouchi-ken Takaoka-gun Tsuno-cho",
       "population": 5456,
       "area": 197.85,
       "description": "津野町の紹介文"
@@ -757,7 +756,7 @@
     {
       "id": 394289,
       "nameJP": "高知県 幡多郡 黒潮町",
-      "nameEN": "Kouchi-ken Hata-gun Kitagawa-mura",
+      "nameEN": "Kouchi-ken Hata-gun Kuroshio-cho",
       "population": 10411,
       "area": 188.46,
       "description": "黒潮町の紹介文"
