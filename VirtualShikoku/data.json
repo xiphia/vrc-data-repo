@@ -1,5 +1,5 @@
 {
-  "version": "2023.08.08.03.45.03",
+  "version": "2023.08.08.14.51.58",
   "cities": [
     {
       "id": 362018,
@@ -23,7 +23,7 @@
       "nameEN": "Tokushima-ken Komatsushima-shi",
       "population": 35894,
       "area": 45.37,
-      "description": "徳島市のいっこ南。ここから県南と言うか、そう出ないかは住んでる人によって変わる。特産品はしらす、鱧、フィッシュカツなどの海産が豊富。"
+      "description": "徳島市のいっこ南。ここから県南と言うか、そうでないかは住んでる人によって変わる。特産品はしらす、鱧、フィッシュカツなどの海産が豊富。"
     },
     {
       "id": 362042,
@@ -79,15 +79,15 @@
       "nameEN": "Tokushima-ken Katsuura-gun Kamikatsu-cho",
       "population": 1427,
       "area": 109.63,
-      "description": ""
+      "description": "勝浦町より更に山奥に進んだ先。発酵飲料である「阿波晩茶」の産地。料理に添える葉っぱを売る「いろどり」ビジネスで一躍有名に。"
     },
     {
       "id": 363219,
       "nameJP": "徳島県 名東郡 佐那河内村",
-      "nameEN": "Tokushima-ken Myodo-gun Sanagochi-mura",
+      "nameEN": "Tokushima-ken Myodo-gun Sanagochi-son",
       "population": 2170,
       "area": 42.28,
-      "description": ""
+      "description": "徳島市と神山の間にある県内唯一の村。全国的に有名なくっそ甘い「ももいちご」の産地。村の南にある大川原高原は絶好の紫陽花スポット。"
     },
     {
       "id": 363413,
@@ -95,7 +95,7 @@
       "nameEN": "Tokushima-ken Myozai-gun Ishii-cho",
       "population": 25097,
       "area": 28.85,
-      "description": ""
+      "description": "徳島県西の入口。町の花「藤」の妖精であるフジッコちゃんというゆるキャラがあらゆる所にいる。撫養街道側にはショッピングモールや専門店が多い。"
     },
     {
       "id": 363421,
@@ -103,7 +103,7 @@
       "nameEN": "Tokushima-ken Myozai-gun Kamiyama-cho",
       "population": 4846,
       "area": 173.3,
-      "description": ""
+      "description": "徳島市から車で30分ほどで行ける田舎町。温泉、滝、花、キャンプ場、川遊びなどのレジャーに事欠かない。県内随一のすだちの産地で、お盆をすぎたら1キロ150円前後とかで売られることも多い。"
     },
     {
       "id": 363685,
@@ -151,7 +151,7 @@
       "nameEN": "Tokushima-ken Itano-gun Kitajima-cho",
       "population": 23574,
       "area": 8.74,
-      "description": ""
+      "description": "適度に店が立ち並び、都会とまでは行かないが住みやすい。フジグラン北島にある映画では４ＤＸでの映画が楽しめる。(四国で見れるのはここと愛媛のエミフルだけ！)"
     },
     {
       "id": 364037,
@@ -231,7 +231,7 @@
       "nameEN": "Kagawa-ken Kan-onji-shi",
       "population": 57738,
       "area": 117.83,
-      "description": ""
+      "description": "「結城友奈は勇者である」の聖地。"
     },
     {
       "id": 372064,
@@ -247,7 +247,7 @@
       "nameEN": "Kagawa-ken Higashikagawa-shi",
       "population": 28498,
       "area": 152.86,
-      "description": "香川の東の端の都市 ホワイトタイガーのいるしろとり動物園や日本唯一？の人形劇博物館 とらまる公園 意外な面白いが隠れている町！"
+      "description": "香川の東の端の都市。ホワイトタイガーのいるしろとり動物園や日本唯一？の人形劇博物館 とらまる公園 意外な面白いが隠れている町！"
     },
     {
       "id": 372081,
@@ -255,7 +255,7 @@
       "nameEN": "Kagawa-ken Mitoyo-shi",
       "population": 62258,
       "area": 222.7,
-      "description": "香川の西の端 NYタイムスが編集した世界の行くべき旅行先という記事に写真が掲載された紫雲出山や遠浅の海辺が美しい父母ヶ浜など、瀬戸内海と夕日が織り成す絶景スポットが多い町"
+      "description": "香川の西の端。NYタイムスが編集した世界の行くべき旅行先という記事に写真が掲載された紫雲出山や遠浅の海辺が美しい父母ヶ浜など、瀬戸内海と夕日が織り成す絶景スポットが多い町。"
     },
     {
       "id": 373222,
@@ -271,7 +271,7 @@
       "nameEN": "Kagawa-ken Shozu-gun Shoudoshima-cho",
       "population": 13616,
       "area": 95.59,
-      "description": ""
+      "description": "マルキンをはじめとした醤油の醸成所が並ぶ。オリーブが有名。寒霞渓(かんかけい)の頂上は、小豆島の海と山の絶景が見える紅葉の名所。"
     },
     {
       "id": 373419,
@@ -287,7 +287,7 @@
       "nameEN": "Kagawa-ken Kagawa-gun Naoshima-cho",
       "population": 2949,
       "area": 14.21,
-      "description": ""
+      "description": "草間彌生の赤、黄色のかぼちゃが有名。それ以外にも美術館やパブリックアートが島のあちこちにある、アートな島。レンタサイクルでぐるっと1周回れます。電動がおすすめ。"
     },
     {
       "id": 373869,
@@ -311,7 +311,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Kotohira-cho",
       "population": 8434,
       "area": 8.47,
-      "description": "古くから金毘羅さんとして愛される金刀比羅宮に見守られた町 海の神様として人々を見守ってきた歴史を是非肌で感じて欲しい！"
+      "description": "古くから金毘羅さんとして愛される金刀比羅宮に見守られた町。海の神様として人々を見守ってきた歴史を是非肌で感じて欲しい！"
     },
     {
       "id": 374041,
@@ -319,7 +319,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Tadotsu-cho",
       "population": 22126,
       "area": 24.39,
-      "description": ""
+      "description": "四国の鉄道発祥の町。多度津駅舎の北側には8620形蒸気機関車が展示されている。"
     },
     {
       "id": 374067,
@@ -327,7 +327,7 @@
       "nameEN": "Kagawa-ken Nakatado-gun Manno-cho",
       "population": 17610,
       "area": 194.45,
-      "description": ""
+      "description": "夏には中四国最大となる野外ロックフェス、「MONSTER baSH」が国営讃岐まんのう公園で二日間にわたって開催される。"
     },
     {
       "id": 382019,
@@ -359,7 +359,7 @@
       "nameEN": "Ehime-ken Yawatahama-shi",
       "population": 31293,
       "area": 132.65,
-      "description": ""
+      "description": "八幡浜港で九州と愛媛をつなぐ玄関口！平家谷でそうめん流しをしよう！"
     },
     {
       "id": 382051,
@@ -367,7 +367,7 @@
       "nameEN": "Ehime-ken Niihama-shi",
       "population": 115314,
       "area": 234.47,
-      "description": ""
+      "description": "太鼓祭りという大規模な祭りが開かれる、西条と新居浜の民は祭りで精神を完全に燃やすので祭り後の彼らは顔が死んでる。「東洋のマチュピチュ」こと別子銅山等が有名。"
     },
     {
       "id": 382060,
@@ -375,7 +375,7 @@
       "nameEN": "Ehime-ken Saijo-shi",
       "population": 105616,
       "area": 510.04,
-      "description": ""
+      "description": "西条祭りが有名で、大量の神輿が川を渡る姿は迫力のあるものです。夏は石鎚山からの雪解け水が流れていて水質が良い。うちぬきの水が存在し、そこらの水路でアユが泳いでる。"
     },
     {
       "id": 382078,
@@ -391,7 +391,7 @@
       "nameEN": "Ehime-ken Iyo-shi",
       "population": 35805,
       "area": 194.43,
-      "description": ""
+      "description": "かつて「日本で一番海に近い駅」と呼ばれ、数々のアニメや創作の聖地となっている下灘駅が存在する。車ではゆうやけこやけラインでドライブを楽しもう！"
     },
     {
       "id": 382132,
@@ -399,7 +399,7 @@
       "nameEN": "Ehime-ken Shikokuchuo-shi",
       "population": 83426,
       "area": 421.24,
-      "description": ""
+      "description": "マジで四国の中央にある市。製紙産業が盛んでティッシュで有名な会社があったり書道の映画で一世を風靡したりと底力を発揮し続けている市。"
     },
     {
       "id": 382141,
@@ -463,7 +463,7 @@
       "nameEN": "Ehime-ken Nishiuwa-gun Ikata-cho",
       "population": 8395,
       "area": 93.83,
-      "description": ""
+      "description": "佐田岬半島に位置する町で、伊方原発があったりする。佐田岬灯台はめちゃくちゃ景色がいいので一度は行くべき。最近新しい道の駅ができたので是非遊びにいこう！"
     },
     {
       "id": 384844,
