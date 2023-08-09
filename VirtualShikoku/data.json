@@ -1,5 +1,5 @@
 {
-  "version": "2023.08.09.04.22.32",
+  "version": "2023.08.09.18.43.16",
   "cities": [
     {
       "id": 362018,
@@ -63,7 +63,7 @@
       "nameEN": "Tokushima-ken Miyoshi-shi",
       "population": 23530,
       "area": 721.42,
-      "description": "徳島の1番西側。吉野川の作る渓谷美「大歩危」「小歩危」や、シラクチカズラという植物で作られた「祖谷のかずら橋」などが有名。"
+      "description": "徳島の1番西側。吉野川の作る渓谷美「大歩危」「小歩危」や、シラクチカズラという植物で作られた「祖谷のかずら橋」などが有名。ちなみに祖谷は「いや」と読む。"
     },
     {
       "id": 363014,
@@ -111,7 +111,7 @@
       "nameEN": "Tokushima-ken Naka-gun Naka-cho",
       "population": 7490,
       "area": 694.98,
-      "description": ""
+      "description": "那賀川をはじめ複数の河川にある大滝、ダムでのカヌー、剣山の酷道スーパー林道など、大自然レジャーを楽しめる。夏には美しい木目のできる木頭杉の丸太に乗り川を下るイベント「木頭杉一本乗り」がある。"
     },
     {
       "id": 363839,
@@ -119,7 +119,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Mugi-cho",
       "population": 3693,
       "area": 56.62,
-      "description": ""
+      "description": "美波町から続く「南阿波サンライン」は、切り立った海岸沿いから水平線を眺めつつアクセルを吹かせる絶好のドライブスポット。7月の最終週には、非恋伝説にちなんだ奇祭「姫神祭り」が行われる。"
     },
     {
       "id": 363871,
@@ -127,7 +127,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Minami-cho",
       "population": 6071,
       "area": 140.74,
-      "description": ""
+      "description": "ウミガメが産卵にやってくる「大浜海岸」にちなんでウミガメモチーフのものが多くある。海鮮が豊富で、炭火で魚貝をいただく海賊焼き、沖ボラやシイラの燻製などがたのしめる。"
     },
     {
       "id": 363880,
@@ -135,7 +135,7 @@
       "nameEN": "Tokushima-ken Kaihu-gun Kaiyo-cho",
       "population": 8645,
       "area": 327.67,
-      "description": ""
+      "description": "徳島最南端の町。ながーい海岸と潮風を受けやすい地形から、サーファーが全国から集まる。シーカヤックや、サンゴと熱帯魚集まる海中公園をゆく観覧船など、マリンレジャー目白押し。"
     },
     {
       "id": 364011,
@@ -143,7 +143,7 @@
       "nameEN": "Tokushima-ken Itano-gun Matsushige-cho",
       "population": 14723,
       "area": 14.34,
-      "description": ""
+      "description": "阿波踊り空港がある。（追記お願いします）"
     },
     {
       "id": 364029,
@@ -159,7 +159,7 @@
       "nameEN": "Tokushima-ken Itano-gun Aizumi-cho",
       "population": 35579,
       "area": 16.27,
-      "description": ""
+      "description": "名前にもあるように、藍染めが有名。藍に関する歴史館「藍の館」ではタオルや靴下、Ｔシャツなどの藍染め体験が可能。ゆめタウンなど大型モールもあり、伝統工芸と活気が共存する。"
     },
     {
       "id": 364045,
@@ -167,7 +167,7 @@
       "nameEN": "Tokushima-ken Itano-gun Itano-cho",
       "population": 13039,
       "area": 36.22,
-      "description": ""
+      "description": "阿讃山脈の麓、吉野川の下流付近にあるので、農業が盛ん。こども科学館やプラネタリウム、広場がある「あすたむらんど」が魅力的。徳島発のチームラボの企画展も定期的に行われる。"
     },
     {
       "id": 364053,
@@ -367,7 +367,7 @@
       "nameEN": "Ehime-ken Niihama-shi",
       "population": 115314,
       "area": 234.47,
-      "description": "太鼓祭りという大規模な祭りが開かれる、西条と新居浜の民は祭りで精神を完全に燃やすので祭り後の彼らは顔が死んでる。「東洋のマチュピチュ」こと別子銅山等が有名。"
+      "description": "太鼓祭りという大規模な祭りが開かれる、西条と新居浜の民は祭りで精神を完全に燃やすので祭り後の彼らは顔が死んでる。「東洋のマチュピチュ」こと別子銅山等が有名。水樹奈々の出身地"
     },
     {
       "id": 382060,
@@ -503,7 +503,7 @@
       "nameEN": "Kouchi-ken Muroto-shi",
       "population": 12015,
       "area": 248.22,
-      "description": ""
+      "description": "高知県南東部にある室戸半島のほとんどを占める市。太平洋に突き出た先端部分には室戸岬があり、ホエールウォッチングが楽しめる。廃校を利用した「むろと廃校水族館」も有名。"
     },
     {
       "id": 392031,
@@ -519,7 +519,7 @@
       "nameEN": "Kouchi-ken Nankoku-shi",
       "population": 46328,
       "area": 125.3,
-      "description": ""
+      "description": "高知龍馬空港を持つ高知県の空の玄関口。高知大学の医学部と農林海洋学部のキャンパスや、高知県民のソウルドリンク「リープル」を製造する「ひまわり乳業」本社がある。"
     },
     {
       "id": 392057,
@@ -559,7 +559,7 @@
       "nameEN": "Kouchi-ken Shimanto-shi",
       "population": 32460,
       "area": 632.32,
-      "description": ""
+      "description": "かつては中村市と呼ばれており、主要駅の中村駅にその名残を残す。日本最後の清流として有名な四万十川が流れているのはここ。歴史的経緯から土佐の小京都とも呼ばれる。"
     },
     {
       "id": 392111,
